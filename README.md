@@ -1,17 +1,14 @@
-<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Arnaldo Neto</h1>
+<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Marques</h1>
 
 <p align="left">
   Connect with me:
-  <a href="https://www.linkedin.com/in/arnaldo-n3to/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-marques1204/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-arnaldo.neto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/arnaldo.neto/" target="_blank">
+  <a href="https://www.instagram.com/llucas_marquess/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-arnaldo.neto-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://discordapp.com/users/366398902846619649/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-arnaldo.neto-05122A?style=flat&logo=discord" alt="discord"/>
-  </a>
-  <a href="mailto:costanetoow@gmail.com" target="_blank">
+  <a href="mailto:lucasm.desenvolvedor@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-costanetoow-05122A?style=flat&logo=gmail" alt="gmail"/> 
   </a>
 </p>
