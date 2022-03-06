@@ -22,13 +22,11 @@
   <br><br>
   
   <p align="justify">
-I'm a continuous and dedicated Full Stack Development Student, adept at the concept of #LifelongLearning.
-I want to develop ideas and make them real, with the knowledge possible to develop applications that make a difference in the world with scale and good usability.
-  </p>
+Atuo na área de Teste/QA - Testes manuais e automatizados de U.I - Atuação com testes Manuais, Mobile, Web. - Elaboração de casos de teste, histórias de usuário e scripts de teste passo a passo para automação. - Desenvolvimento a Documentação do Usuário. - Desenvolvimento material de Suporte. - Desenvolvimento dos Requisitos. - Testes de API com Postman, e apresentação de relatório com Newman - Apresentação inicial ao time, o processo de Automação de Testes com (Cypress e Selenium). - Testes Mobile Appium e Robot  </p>
   
   <br>
   
-📚 "There is never enough knowledge, and all experiences are valid."
+📚 "A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro."Albert Einstein"."
 </div>
 
   <br>
