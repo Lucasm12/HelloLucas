@@ -32,13 +32,13 @@ Atuo na área de Teste/QA - Testes manuais e automatizados de U.I - Atuação co
   <br>
 
 ```javascript
-const arnaldoNeto = {
+const LucasMarques = {
   pronouns: "he" | "Him",
-  code: [Javascript, Typescript, Html, Css, Sass, Dart],
-  tools: [React, Node, Flutter],
-  databases: [Postgres],
-  inProgress: "I am participating in the Desenvolve 2022 program, promoted by Grupo Boticário.",
-  curiosity: "I have almost 10k rides (and couting) as an Uber driver.",
+  code: [Javascript, Html, Css, Wordpress, Python],
+  tools: [React, Node],
+  databases: [Postgres,Oracle],
+  inProgress: "Analista de Testes/QA In SmatLoad",
+ 
 };
 ```
 
@@ -47,11 +47,10 @@ const arnaldoNeto = {
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart&logoColor=1572B6)
+![WORDPRESS](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=dart&logoColor=1572B6)
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
