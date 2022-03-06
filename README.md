@@ -35,7 +35,7 @@ Atuo na área de Teste/QA - Testes manuais e automatizados de U.I - Atuação co
 const LucasMarques = {
   pronouns: "he" | "Him",
   code: [Javascript, Html, Css, Wordpress, Python],
-  tools: [React, Node],
+  tools: [React, Node,Cyprees,Appium],
   databases: [Postgres,Oracle],
   inProgress: "Analista de Testes/QA In SmatLoad",
  
@@ -54,6 +54,8 @@ const LucasMarques = {
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
+![Cyprees](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=node.js)&nbsp;
+![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=node.js)&nbsp;
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
