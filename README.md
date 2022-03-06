@@ -1,7 +1,7 @@
 <h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Marques</h1>
 
 <p align="left">
-  Connect with me:
+  Conecte-se comigo:
   <a href="https://www.linkedin.com/in/lucas-marques1204/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Lucas.Marques-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
