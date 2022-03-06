@@ -3,13 +3,13 @@
 <p align="left">
   Connect with me:
   <a href="https://www.linkedin.com/in/lucas-marques1204/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-arnaldo.neto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Lucas.Marques-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/llucas_marquess/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-arnaldo.neto-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img align="center" src="https://img.shields.io/badge/-Lucas.Marques-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <a href="mailto:lucasm.desenvolvedor@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-costanetoow-05122A?style=flat&logo=gmail" alt="gmail"/> 
+    <img align="center" src="https://img.shields.io/badge/-Lucas.Marques-05122A?style=flat&logo=gmail" alt="gmail"/> 
   </a>
 </p>
 
