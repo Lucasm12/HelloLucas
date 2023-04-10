@@ -1,12 +1,4 @@
-<h1 align="center">Hello! My name is Adriano Driuzzo and I am a Software Test Analyst. </h1>
-
-- 🔭 I’m currently working with Javascript, Cypress and Postman
-
-- 🌱 I’m currently learning **API Testing** with **Postman**
-
-- 👯 I’m looking to collaborate on Software Quality community
-
-- 📫 How to reach me **adriano.driuzzo@hotmail.com**
+<h1 align="center">Hello! My name is Lucas Marques and I am a Software Test Analyst. </h1>
 
 <div>
   <a href="https://github.com/driuzzo">
