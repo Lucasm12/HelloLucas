@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Lucas Marques and I am a Software Test Analyst. </h1>
 
 <div>
-  <a href="https://github.com/driuzzo">
+  <a href="https://github.com/Lucasm12">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driuzzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driuzzo&layout=compact&langs_count=3&theme=dracula&hide=Rich%20Text%20Format" />
   </div>
@@ -82,7 +82,7 @@
      
 <div>
   <h3 align="left">Articles and Contact</h3>
-  <a href = "mailto:adriano.driuzzo@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
+  <a href = "mailto:lucasm.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/adriano-driuzzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   <a href="https://medium.com/@adriano-driuzzo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
 </div>
