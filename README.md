@@ -83,8 +83,5 @@
 <div>
   <h3 align="left">Articles and Contact</h3>
   <a href = "mailto:lucasm.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/adriano-driuzzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href="https://medium.com/@adriano-driuzzo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/lucas-marques1204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
-  
-<img src="https://komarev.com/ghpvc/?username=driuzzo" alt="driuzzo" />
