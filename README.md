@@ -1,78 +1,98 @@
-<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Marques</h1>
+<h1 align="center">Hello! My name is Adriano Driuzzo and I am a Software Test Analyst. </h1>
 
-<p align="left">
-  Conecte-se comigo:
-  <a href="https://www.linkedin.com/in/lucas-marques1204/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Lucas.Marques-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/llucas_marquess/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Lucas.Marques-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-  <a href="mailto:lucasm.desenvolvedor@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Lucas.Marques-05122A?style=flat&logo=gmail" alt="gmail"/> 
-  </a>
-</p>
+- 🔭 I’m currently working with Javascript, Cypress and Postman
 
-<br>
+- 🌱 I’m currently learning **API Testing** with **Postman**
 
-<div align="center">
+- 👯 I’m looking to collaborate on Software Quality community
 
-  <img width="70%" height="70%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+- 📫 How to reach me **adriano.driuzzo@hotmail.com**
 
-  <br><br>
+<div>
+  <a href="https://github.com/driuzzo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driuzzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driuzzo&layout=compact&langs_count=3&theme=dracula&hide=Rich%20Text%20Format" />
+  </div>
   
-  <p align="justify">
-Atuo na área de Teste/QA - Testes manuais e automatizados de U.I - Atuação com testes Manuais, Mobile, Web. - Elaboração de casos de teste, histórias de usuário e scripts de teste passo a passo para automação. - Desenvolvimento a Documentação do Usuário. - Desenvolvimento material de Suporte. - Desenvolvimento dos Requisitos. - Testes de API com Postman, e apresentação de relatório com Newman - Apresentação inicial ao time, o processo de Automação de Testes com (Cypress e Selenium). - Testes Mobile Appium e Robot  </p>
-  
+ ##
+
+<div style="display: inline_block">
   <br>
-  
-📚 "A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro."Albert Einstein"."
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+      <img width="50" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      <img width="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+      <img width="50" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </a>
+    <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer">
+      <img width="50" alt="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> </a>
+    <a href="https://clickup.com/" target="_blank" rel="noreferrer">
+      <img width="50" alt="ClickUp" src="https://clickup.com/landing/images/clickup-logo-gradient.png" /> </a>
+    <a href="https://trello.com" target="_blank" rel="noreferrer">
+      <img width="50" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </a>
+    <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+      <img width="50" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> </a>
+    <a href="https://yarnpkg.com" target="_blank" rel="noreferrer">
+      <img width="50" alt="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" /> </a>
+  </p>
+</div>
+      
+<div>
+  <h3 align="left">Testing Tools:</h3>
+  <p align="left">
+    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" /> </a>
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" /> </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Postman" src="https://www.svgrepo.com/download/354202/postman-icon.svg" /> </a>
+    <a href="https://github.com/postmanlabs/newman/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Newman" src="https://postman-toolboxes2.s3.amazonaws.com/assets/newman/newman.png" /> </a>
+    <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Mocha" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /> </a>
+    <a href="https://pytest.org/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" /> </a>
+  </p>
 </div>
 
-  <br>
+<div>
+  <h3 align="left">Version Control:</h3>
+  <p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> </a>
+      </p>
+</div>
 
-```javascript
-const LucasMarques = {
-  pronouns: "he" | "Him",
-  code: [Javascript, Html, Css, Wordpress, Python],
-  tools: [React, Node,Cyprees,Appium],
-  databases: [Postgres,Oracle],
-  inProgress: "Analista de Testes/QA In SmatLoad",
- 
-};
-```
-
-  <br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![WORDPRESS](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=dart&logoColor=1572B6)
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
-![Cyprees](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=node.js)&nbsp;
-![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=node.js)&nbsp;
-
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![OracleSQL](https://img.shields.io/badge/-OracleSQL-05122A?style=flat&logo=oraclesql)
-
-<br>
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Lucasm12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasm12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasm12&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div>
+  <h3 align="left">Database</h3>
+  <p align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img width="50" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noreferrer">
+      <img width="50" alt="SQL-Server" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" /> </a>
+  </p>
+</div>
+     
+<div>
+  <h3 align="left">CI/CD:</h3>
+  <p align="left">
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> </a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+      <img width="50" alt="GithubActions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" /> </a>
+  </p>
+</div>  
+      
+  
+  ##
+     
+<div>
+  <h3 align="left">Articles and Contact</h3>
+  <a href = "mailto:adriano.driuzzo@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/adriano-driuzzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://medium.com/@adriano-driuzzo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
 </div>
   
-![snake gif](https://github.com/Lucasm12/Lucasm12/blob/output/github-contribution-grid-snake.svg)
-
-
+<img src="https://komarev.com/ghpvc/?username=driuzzo" alt="driuzzo" />
