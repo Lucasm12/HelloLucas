@@ -4,15 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucasm12&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Formado em Sistemas de Informação  e Mestre em Engenharia Elétrica com enfâse em IA, pela Universidade Federal do Piauí
+- 🔭 Formado em Sistemas de Informação. Universidade Federal do Piauí (UFPI)
 
-- 🧠 Curso Bacharelado em Inteligência Artificial na Universidade Federal de Goiás (UFG)
+- 🧠 Mestre em Engenharia Elétrica com enfâse em IA, pela Universidade Federal do Piauí (UFPI)
 
-- 🔥 Estudo programação web de forma independente
+- 🔥 Software Quality Assurance Engineer (QA)
 
-- 💬 Atualmente estudo e desenvolvo em **JavaScript, React, Next.js e Node.JS**
-
-- Estou em busca de uma oportunidade na área de desenvolvimento
 
 <br><br>
 
