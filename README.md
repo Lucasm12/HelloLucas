@@ -6,6 +6,8 @@
 
 - 🔭 Formado em Sistemas de Informação. Universidade Federal do Piauí (UFPI)
 
+- 🧠 Doutorando em Ciências da Conputação pela Universidade Federal do Piauí (UFPI)
+
 - 🧠 Mestre em Engenharia Elétrica com enfâse em IA, pela Universidade Federal do Piauí (UFPI)
 
 - 🔥 Software Quality Assurance Engineer (QA)
