@@ -5,8 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucasm12&color=yellow" alt="Profile views" /> </p>
 
 🔥 Experiência como Engenheiro de Garantia de Qualidade de Software (QA), garantindo a excelência e confiabilidade dos produtos desenvolvidos.
+
 🧠 Atualmente,doutorando em Ciências da Computação na Universidade Federal do Piauí (UFPI)
+
 🎓 Possuo mestrado em Engenharia Elétrica, com ênfase em Inteligência Artificial, também pela UFPI, onde desenvolvi habilidades sólidas e expertise na área.
+
 🔭 Graduado em Sistemas de Informação pela renomada Universidade Federal do Piauí (UFPI).
 
 
